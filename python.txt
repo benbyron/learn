@@ -5,3 +5,4 @@
 3. Look into pandas library
 4. Import excel spreadsheets
 5. Practice signal processing in Numpy
+6. Generators and co-routines
